@@ -1,0 +1,29 @@
+body {
+    font-family: monospace;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.card-text {
+    color: grey;
+    font-size: 14px;
+}
+
+.card {
+    border: none !important;
+}
+
+.header {
+    font-weight: bold;
+}
+
+.breadcrumb {
+    background-color: white !important;
+}
+
+.active {
+    font-weight: bold;
+    color: black;
+}
